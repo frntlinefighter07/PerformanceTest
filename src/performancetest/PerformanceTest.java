@@ -19,6 +19,7 @@ public class PerformanceTest {
         getTime(10000000);
         getTime(100000000);
         getTime(1000000000);
+        //gets the time
     }
     
     public static void getTime(long n)
